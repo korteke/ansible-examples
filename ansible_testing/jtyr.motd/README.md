@@ -3,6 +3,7 @@ motd
 
 This role creates the Message Of The Day (motd) file with some additional
 information about the distro and the hardware.
+Testing
 
 
 Example
